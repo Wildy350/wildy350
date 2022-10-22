@@ -2,6 +2,7 @@
 
 ## I'm a begginer QA Engineer
 
-Language and Tools
+### Language and Tools
+![GitHub](https://img.shields.io/badge/-GitHub-000033?style=for-the-badge&logo=github&logoColor=87CEFA)
 
-My socials
+My socials	
