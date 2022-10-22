@@ -3,7 +3,7 @@
 ## I'm a begginer QA Engineer
 
 ## My CV
-[Link]
+"Soon.."
 
 ### Language and Tools
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github&logoColor=87CEFA)
@@ -17,6 +17,6 @@
 "Soon.."
 
 ### My socials
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)
-![Instagram](https://img.shields.io/badge/-Instaram-090909?style=for-the-badge&logo=instagram&logoColor=8d068d)
-![LinkedIN](https://img.shields.io/badge/-LinkedIN-090909?style=for-the-badge&logo=linkedin&logoColor=0077ff)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Wildy350)
+[![Instagram](https://img.shields.io/badge/-Instaram-090909?style=for-the-badge&logo=instagram&logoColor=8d068d)](https://www.instagram.com/wildy350/)
+[![LinkedIN](https://img.shields.io/badge/-LinkedIN-090909?style=for-the-badge&logo=linkedin&logoColor=0077ff)](https://www.linkedin.com/in/nikita-pantyushev-81b313228/)
