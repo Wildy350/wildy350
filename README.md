@@ -3,7 +3,8 @@
 ## I'm a begginer QA Engineer
 
 ## My CV
-"Soon.."
+[CV in Russian](https://drive.google.com/file/d/15WebHGt5n54lB0AFZeGQ-xnO7Gk6xqjr/view?usp=sharing)
+[CV in English](https://drive.google.com/file/d/1zhI8QSwnmsvkJZlVEY6i5nyA2GUv1c7K/view?usp=sharing)
 
 ### Language and Tools
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github&logoColor=87CEFA)
