@@ -1,6 +1,6 @@
 ![Header](https://github.com/Wildy350/wildy350/blob/main/pics/x8SxNR01OSg.jpg)
 
-## I'm a begginer QA Engineer
+## I'm a beginner QA Engineer
 
 ## My CV
 [CV in Russian](https://drive.google.com/file/d/15WebHGt5n54lB0AFZeGQ-xnO7Gk6xqjr/view?usp=sharing)
@@ -21,4 +21,4 @@
 ### My socials
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Wildy350)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=8d068d)](https://www.instagram.com/wildy350/)
-[![LinkedIN](https://img.shields.io/badge/-LinkedIN-090909?style=for-the-badge&logo=linkedin&logoColor=0077ff)](https://www.linkedin.com/in/nikita-pantyushev-81b313228/)
+[![LinkedIN](https://img.shields.io/badge/-LinkedIN-090909?style=for-the-badge&logo=linkedin&logoColor=0077ff)](https://www.liDSnkedin.com/in/nikita-pantyushev-81b313228/)
