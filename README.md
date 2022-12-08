@@ -5,7 +5,7 @@
 ## My CV
 [CV in Russian](https://drive.google.com/file/d/1pbORwrtqZf72bOk7J7mprMYE5r55tuEC/view?usp=sharing)
 
-[CV in English](https://drive.google.com/file/d/1Iq4qjVZQtWk3wqZJkR3UtFOcV-2dDMm7/view?usp=share_link)
+[CV in English](https://drive.google.com/file/d/1XF3bRNhk-lwSvkaSPMPkcfFwS4anGQ8d/view?usp=share_link)
 
 ### Language and Tools
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github&logoColor=87CEFA)
