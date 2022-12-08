@@ -1,11 +1,11 @@
 ![Header](https://github.com/Wildy350/wildy350/blob/main/pics/x8SxNR01OSg.jpg)
 
-## I'm a beginner QA Engineer
+## Beginner QA Engineer
 
 ## My CV
-[CV in Russian](https://drive.google.com/file/d/15WebHGt5n54lB0AFZeGQ-xnO7Gk6xqjr/view?usp=share_link)
+[CV in Russian](https://drive.google.com/file/d/1pbORwrtqZf72bOk7J7mprMYE5r55tuEC/view?usp=sharing)
 
-[CV in English](https://drive.google.com/file/d/1zhI8QSwnmsvkJZlVEY6i5nyA2GUv1c7K/view?usp=share_link)
+[CV in English](https://drive.google.com/file/d/1Iq4qjVZQtWk3wqZJkR3UtFOcV-2dDMm7/view?usp=share_link)
 
 ### Language and Tools
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github&logoColor=87CEFA)
