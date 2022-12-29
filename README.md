@@ -3,9 +3,9 @@
 ## Beginner QA Engineer
 
 ## My CV
-[CV in Russian](https://drive.google.com/file/d/1pbORwrtqZf72bOk7J7mprMYE5r55tuEC/view?usp=sharing)
+[CV in Russian](https://drive.google.com/file/d/1KfTlS-GBeGY2pZwqeZ2QsuMyZLJ2MLUu/view?usp=sharing)
 
-[CV in English](https://drive.google.com/file/d/1XF3bRNhk-lwSvkaSPMPkcfFwS4anGQ8d/view?usp=share_link)
+[CV in English](https://drive.google.com/file/d/1DdK4RYxEm2qWFGsspaosb6WKzK_pRv3t/view?usp=sharing)
 
 ### Language and Tools
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github&logoColor=87CEFA)
