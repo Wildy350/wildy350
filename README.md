@@ -16,6 +16,7 @@
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=google&logoColor=b70e2a)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-090909?style=for-the-badge&logo=soapui&logoColor=ffeb0e)
 ![YouTrack](https://img.shields.io/badge/-YouTrack-090909?style=for-the-badge)
+![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge)
 
 ### Learning
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge)
